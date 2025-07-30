@@ -1,5 +1,5 @@
 pyRAG
 data/chunks/
 data/processed_chunks/
-data/raw/
-data/raw/textbooks/
+data/raw/textbooks/*
+**/__pycache__
